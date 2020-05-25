@@ -3,7 +3,7 @@
   Plugin Name: Is Logged in
   Plugin URI: https://github.com/Trifoia/is-logged-in
   description: Adds shortcodes that only display content when the user is logged in / out
-  Version: 1.0
+  Version: 1.0.1
   Author: Trifoia
   Author URI: https://trifoia.com
   License: MIT
